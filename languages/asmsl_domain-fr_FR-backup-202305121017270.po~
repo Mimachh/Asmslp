@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ASMSL\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-08 08:42+0000\n"
+"PO-Revision-Date: 2023-05-12 10:14+0000\n"
+"Last-Translator: \n"
+"Language-Team: Français\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2\n"
+"X-Domain: asmsl_domain"
+
+#. Name of the plugin
+msgid "ASMSL"
+msgstr "ASMSL"
+
+#. Author of the plugin
+msgid "MimacH"
+msgstr "MimacH"
+
+#. Description of the plugin
+msgid ""
+"The simplest and most complete way to include Social Share Links to your "
+"website."
+msgstr ""
+"Le moyen le plus simple et le plus complet pour intégrer des liens de "
+"partage pour réseaux sociaux à ton site web."

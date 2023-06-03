@@ -1,0 +1,236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ASMSL\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-08 08:42+0000\n"
+"PO-Revision-Date: 2023-05-08 10:44+0000\n"
+"Last-Translator: \n"
+"Language-Team: Français\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2\n"
+"X-Domain: asmsl_domain"
+
+#: index.php:1163
+msgid "Animation Hover"
+msgstr "Animation au passage de la souris"
+
+#. Name of the plugin
+msgid "ASMSL"
+msgstr "ASMSL"
+
+#: index.php:156
+msgid "ASMSL Settings"
+msgstr "ASMSL Paramètres"
+
+#: index.php:954
+msgid "Begining of post"
+msgstr "Début de l'article"
+
+#: index.php:1146
+msgid "Choose the form of your icons :"
+msgstr "Choisis la forme de tes icônes"
+
+#: index.php:1133
+msgid "Choose the size of your icons"
+msgstr "Choisis la taille de tes icônes"
+
+#: index.php:987
+msgid "Choose your social media"
+msgstr "Choisis tes réseaux sociaux"
+
+#: index.php:157
+msgid "Choose your socials medias"
+msgstr "Choisis tes réseaux sociaux"
+
+#: index.php:47 index.php:64
+msgid "Custom the shared Content"
+msgstr "Personnalise le contenu à partager"
+
+#: index.php:44 index.php:61
+msgid "Custom the shared Title"
+msgstr "Personnalise le titre à partager"
+
+#: index.php:50 index.php:67
+msgid "Custom the shared URL"
+msgstr "Personnalise l'URL à partager"
+
+#: index.php:952
+msgid "Display Location"
+msgstr "Localisation"
+
+#: index.php:58
+msgid "Do you want to display Social Media on Pages ?"
+msgstr "Veux-tu afficher tes réseaux sociaux sur les Pages de ton site?"
+
+#: index.php:41
+msgid "Do you want to display Social Media on Post ?"
+msgstr "Veux-tu afficher tes réseaux sociaux sur les Articles de ton site?"
+
+#: index.php:955
+msgid "End of post"
+msgstr "Fin de l'Article"
+
+#: index.php:92
+msgid ""
+"For more customisation you can copy and paste the shortcode on the Post or "
+"Page you want."
+msgstr ""
+"Pour plus de personnalisation tu peux copier coller le code-court sur la "
+"Page ou l'Article de ton choix."
+
+#: index.php:965 index.php:970
+msgid "Headline Text"
+msgstr "Titre"
+
+#: index.php:84
+msgid ""
+"Here you can change the content (Title / Content / Link) that your Pages's "
+"buttons will share."
+msgstr ""
+"Dans cette section tu peux modifier le contenu (titre, contenu, lien) que "
+"tes boutons de partage (sur les Pages) partageront."
+
+#: index.php:88
+msgid ""
+"Here you can change the content (Title / Content / Link) that your Posts's "
+"buttons will share."
+msgstr ""
+"Dans cette section tu peux modifier le contenu (titre, contenu, lien) que "
+"tes boutons de partage (sur les Articles) partageront."
+
+#: index.php:1131
+msgid "Icon Style"
+msgstr "Style de l'icône"
+
+#: index.php:1137
+msgid "Large"
+msgstr "Grande"
+
+#: index.php:124 index.php:146
+msgid "Leaving blank will use the default Post Excerpt."
+msgstr ""
+"Laisse le champ vide pour utiliser par défaut l'extrait de ton Article "
+"(vérifie de l'avoir bien renseigné)."
+
+#: index.php:129 index.php:151
+msgid "Leaving blank will use the default Post Title."
+msgstr ""
+"Laisse le champ vide pour utiliser par défaut le titre de ton Article "
+"(vérifie de l'avoir bien renseigné)."
+
+#: index.php:119 index.php:141
+msgid "Leaving blank will use the default Post URL."
+msgstr "Laisse le champ vide pour utiliser par défaut l'URL de ton Article."
+
+#: index.php:959
+msgid "Left of post"
+msgstr "A gauche de l'Article"
+
+#: index.php:957
+msgid "Left Screen Fixed"
+msgstr "Fixé à gauche de l'écran"
+
+#: index.php:1136
+msgid "Medium"
+msgstr "Moyenne"
+
+#. Author of the plugin
+msgid "MimacH"
+msgstr "MimacH"
+
+#: index.php:112 index.php:134
+msgid "No"
+msgstr "Non"
+
+#: index.php:876 index.php:881 index.php:1087
+msgid "Options saved."
+msgstr "Options enregistrées."
+
+#: index.php:55
+msgid "Pages"
+msgstr "Pages"
+
+#: index.php:76
+msgid "Pages Shortcode"
+msgstr "Code-court pour les Pages"
+
+#: index.php:37
+msgid "Posts and Single"
+msgstr "Articles "
+
+#: index.php:71
+msgid "Posts Shortcode"
+msgstr "Code-court pour les Articles"
+
+#: index.php:79
+msgid "Retrieve the Pages's Shortcode"
+msgstr "Récupère le code-court des Pages"
+
+#: index.php:74
+msgid "Retrieve the Posts's Shortcode"
+msgstr "Récupère le code-court des Articles"
+
+#: index.php:958
+msgid "Right of post"
+msgstr "A droite de l'Article"
+
+#: index.php:956
+msgid "Right Screen Fixed"
+msgstr "Fixé à droite de l'écran"
+
+#: index.php:1150
+msgid "Round"
+msgstr "Arrondi"
+
+#: index.php:1008 index.php:1190
+msgid "Save Changes"
+msgstr "Enregistrer les changements"
+
+#: index.php:1169
+msgid "Select an Hover animation :"
+msgstr "Choisis une animation de survol de souris : "
+
+#: index.php:396 index.php:714
+msgid "Share on your social media."
+msgstr "Partage sur tes réseaux sociaux."
+
+#: index.php:1135
+msgid "Small"
+msgstr "Petite"
+
+#: index.php:1089
+msgid "Something goes wrong try again."
+msgstr "Quelque-chose s'est mal passé, essaie à nouveau."
+
+#: index.php:932 index.php:1098
+msgid "Sorry, you do not have permission to perform that action."
+msgstr "Désolé, vous n'avez pas l'autorisation pour réaliser cette action."
+
+#: index.php:1149
+msgid "Square"
+msgstr "Carré"
+
+#. Description of the plugin
+msgid ""
+"The simplest and most complete way to include Social Share Links to your "
+"website."
+msgstr ""
+"Le moyen le plus simple et le plus complet pour intégrer des liens de "
+"partage pour réseaux sociaux à ton site web."
+
+#: index.php:113 index.php:135
+msgid "Yes"
+msgstr "Oui"
+
+#: index.php:100 index.php:107
+msgid "You can add it to your code using :"
+msgstr "Tu peux ajouter à ton code en utilisant : "
+
+#: index.php:923
+msgid "You need to choose at least one social media."
+msgstr "Tu dois choisir au moins un réseau social."
